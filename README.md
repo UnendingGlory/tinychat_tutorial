@@ -37,9 +37,9 @@ Please check this document and follow the instructions which will walk you throu
 
 [AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration](https://github.com/mit-han-lab/llm-awq)
 
-## Format
+## Data Format
 
-![Arm](./assets/figures/data_format.png)
+![Arm](assets/figures/data_format.png)
 
 ## Test
 Test on the x86 machine.
